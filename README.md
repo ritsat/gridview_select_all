@@ -1,15 +1,13 @@
 # gridview_select_all
 
-A new Flutter project.
+A Flutter project to showhow to select & deselect gridview items at once.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+For more details, please refer below Youtube video,
 
-A few resources to get you started if this is your first Flutter project:
+[![Select & unselect Gridview items](https://img.youtube.com/vi/AF-_dfQwWms/0.jpg)](https://youtu.be/AF-_dfQwWms)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
